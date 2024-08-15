@@ -3,4 +3,4 @@ Análise de algoritmos aproximativos e heurísticos para o problema dos k-centro
 
 Os componentes do grupo são:
 * Antônio Caetano Neves Neto
-* Raphael Aroldo
+* Raphael Aroldo Carreiro Mendes
